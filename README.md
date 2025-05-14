@@ -43,7 +43,7 @@ Install dependencies with:
 pip install numpy math
 ```
 
-## 🚀 Quick Start
+## 🔑 Key Steps of Chaos-QIM
 - ▶️Embedding messages
 ```python
 def chaos_qim_embedding(p: np.array, s: np.array, basic: np.array, a: int,
@@ -86,6 +86,7 @@ for item in range(0, round(len(chaos_sequence)), N):
     secret_extration.append(coset_index)
 ```
 > You may configure different lattice bases (A<sub>2</sub>, A<sub>3</sub>, D<sub>4</sub>, <sub>5</sub>), chaotic maps (Logistic, Lorenz), and payload lengths in the script.
+
 > This script is applicable not only to synthetic sequences but can also be extended to real-world media such as images, audio, and other digital signals.
 
 
