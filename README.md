@@ -1,6 +1,6 @@
 # 🔐 Chaos-Aided Quantization Index Modulation (Chaos-QIM)
 > Official implementation of the paper:  
-> **Secure Steganography Based on Chaos-Aided Quantization Index Modulation** by Xinquan Xu, Ling Liu, Shanxiang Lyu, Lip Yee Por
+> Xinquan Xu, Ling Liu, Shanxiang Lyu, Lip Yee Por; **“Secure Steganography Based on Chaos-Aided Quantization Index Modulation，”** AsiaCCS 2025.
 
 
 ## 📘 Overview
@@ -90,7 +90,8 @@ for item in range(0, round(len(chaos_sequence)), N):
 > This script is applicable not only to synthetic sequences but can also be extended to real-world media such as images, audio, and other digital signals.
 
 ## 📬 Contact
-If you have any questions or suggestions, feel free to contact us.
+If you have any questions or suggestions, feel free to contact us:
+- ✉️ Email: xinq07@stu.jnu.edu.cn
 
 
 
