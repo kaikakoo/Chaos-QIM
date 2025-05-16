@@ -89,5 +89,8 @@ for item in range(0, round(len(chaos_sequence)), N):
 
 > This script is applicable not only to synthetic sequences but can also be extended to real-world media such as images, audio, and other digital signals.
 
+## 📬 Contact
+If you have any questions or suggestions, feel free to contact us.
+
 
 
